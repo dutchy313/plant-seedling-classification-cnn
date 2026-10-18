@@ -1,0 +1,27 @@
+# Dataset, local experiments and trained weights
+data/raw/
+data/downloads/
+artifacts/
+*.npy
+*.npz
+*.keras
+*.h5
+*.hdf5
+*.tflite
+*.zip
+# Environments, secrets and caches
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+credentials*.json
+service-account*.json
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+.DS_Store
+Thumbs.db
+# Personal publishing instructions
+UPLOAD_GUIDE.md

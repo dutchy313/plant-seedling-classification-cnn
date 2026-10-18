@@ -1,0 +1,25 @@
+model,class_id,species,precision,recall,f1_score,support
+baseline,0,Black-grass,0.00,0.00,0.00,26
+baseline,1,Charlock,0.47,0.92,0.63,39
+baseline,2,Cleavers,0.36,0.17,0.23,29
+baseline,3,Common Chickweed,0.89,0.79,0.83,61
+baseline,4,Common wheat,1.00,0.05,0.09,22
+baseline,5,Fat Hen,0.73,0.62,0.67,48
+baseline,6,Loose Silky-bent,0.59,0.97,0.74,65
+baseline,7,Maize,0.73,0.36,0.48,22
+baseline,8,Scentless Mayweed,0.54,0.69,0.61,52
+baseline,9,Shepherds Purse,0.80,0.35,0.48,23
+baseline,10,Small-flowered Cranesbill,0.71,0.84,0.77,50
+baseline,11,Sugar beet,0.69,0.66,0.68,38
+augmented,0,Black-grass,0.50,0.15,0.24,26
+augmented,1,Charlock,0.82,0.92,0.87,39
+augmented,2,Cleavers,0.69,0.76,0.72,29
+augmented,3,Common Chickweed,0.86,0.89,0.87,61
+augmented,4,Common wheat,0.25,0.09,0.13,22
+augmented,5,Fat Hen,0.71,0.46,0.56,48
+augmented,6,Loose Silky-bent,0.55,0.88,0.68,65
+augmented,7,Maize,0.73,0.73,0.73,22
+augmented,8,Scentless Mayweed,0.64,0.83,0.72,52
+augmented,9,Shepherds Purse,0.77,0.43,0.56,23
+augmented,10,Small-flowered Cranesbill,0.87,0.90,0.88,50
+augmented,11,Sugar beet,0.81,0.68,0.74,38

@@ -1,0 +1,16 @@
+{
+  "source_filename": "Plant_Seedling_Classification_Notebook.ipynb",
+  "sha256": "7dfab64809f7aa8f4a4fd89447bdde9d8afdb783466d6d33c919d54105ac5429",
+  "review_date": "2026-10-18",
+  "training_rerun": false,
+  "input_arrays_available": false,
+  "source_cell_indexing": "zero-based",
+  "class_order_basis": "alphabetical LabelBinarizer convention, checked against species tick labels on saved confusion matrix in cell 75",
+  "metrics_sources": {
+    "baseline_evaluation": 53,
+    "baseline_report": 58,
+    "augmented_evaluation": 72,
+    "augmented_report": 77
+  },
+  "historical_python_metadata": "3.8.12; not a verified execution environment"
+}
